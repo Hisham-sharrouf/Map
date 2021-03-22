@@ -3,8 +3,8 @@ test map in GEE
 
 ## Start
 
-cd \n
-mkdir voila \n
+cd 
+mkdir voila 
 cd voila
 python -m venv venv
 source venv/bin/activate
